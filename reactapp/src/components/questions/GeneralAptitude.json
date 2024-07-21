@@ -1,0 +1,82 @@
+[
+    {
+        "question":"The numbers from 101 to 150 are written as, 101102103104105…146147148149150. What will be the remainder when this total number is divided by 3?",
+        "option1":"1",
+        "option2":"2",
+        "option3":"3",
+        "option4":"4",
+        "answer":"2"
+    },
+    {
+        "question":"If the alphabets are written in the sequence of a, bb, ccc, dddd, eeeee, ffffff, …. What will be the 120th letter?",
+        "option1":"4",
+        "option2":"2",
+        "option3":"3",
+        "option4":"0",
+        "answer":"0"
+    },
+    {
+        "question":".In a class, the number of boys is equal to the number of girls. What was the total number of students if twice the number of boys as girls remain when 12 girls entered out? ",
+        "option1":"60",
+        "option2":"2",
+        "option3":"48",
+        "option4":"50",
+        "answer":"48"
+    },
+    {
+        "question":"30 liters of 78% of a concentrated acid solution is to be prepared. How many litres of 90% concentrated acid needs to be mixed with 75% solution of concentrated acid to get the result?",
+        "option1":"10",
+        "option2":"6",
+        "option3":"3",
+        "option4":"4",
+        "answer":"6"
+    },
+    {
+        "question":"There is a tank whose 1/7 th part is filled with fuel. If 22 liters of fuel is poured into the tank, the indicator rises to 1/5 th mark of the tank. So what is the total capacity of the tank?",
+        "option1":"385",
+        "option2":"200",
+        "option3":"150",
+        "option4":"400",
+        "answer":"385"
+    },
+    {
+        "question":"What is the least number that must be added to 9999 to make it exactly divisible by 19 ?",
+        "option1":"10",
+        "option2":"23",
+        "option3":"3",
+        "option4":"14",
+        "answer":"14"
+    },
+    {
+        "question":"In the given series 11, 23, 47, 83, 131, … What is the next number?",
+        "option1":"145",
+        "option2":"178",
+        "option3":"191",
+        "option4":"176",
+        "answer":"191"
+    },
+    {
+        "question":"If VXUPLVH is written as SURMISE, what is SHDVD written as?",
+        "option1":" PEASA",
+        "option2":" PBASA",
+        "option3":"PEBSB",
+        "option4":"None of the abov",
+        "answer":"PEASA"
+    },
+    {
+        "question":"Anil works for 8 straight days and rest on the 9th day. If he starts his work on Monday, then on which day he gets his 12th rest day?",
+        "option1":"Thurday",
+        "option2":"Tuesday",
+        "option3":"Wednesday",
+        "option4":"Friday",
+        "answer":"Wednesday"
+    },
+    {
+        "question":"A team of 11 is needed to be formed who are to be selected from 5 men and 11 women, with the restriction of selecting not more than 3 men. In how many ways can the selection be done?",
+        "option1":"1121",
+        "option2":"1565",
+        "option3":"1243",
+        "option4":"2256",
+        "answer":"2256"
+    }
+]

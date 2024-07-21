@@ -1,0 +1,82 @@
+[
+    {
+        "question":"Automatic type conversion is possible in which of the possible cases?",
+        "option1":" byte to int",
+        "option2":"int to long",
+        "option3":"kong to int ",
+        "option4":"short to int ",
+        "answer":"int to long"
+    },
+    {
+        "question":"What is the use of final keyword in Java? ",
+        "option1":"When a class is made final, a subclass of it can not be created. ",
+        "option2":"When a method is final, it can not be overridden. ",
+        "option3":"When a variable is final, it can be assigned value only once. ",
+        "option4":"all the above",
+        "answer":"all the above"
+    },
+    {
+        "question":"Which of the following is true about inheritance in Java. 1) In Java all classes inherit from the Object class directly or indirectly. The Object class is root of all classes. 2) Multiple inheritance is not allowed in Java. 3) Unlike C++, there is nothing like type of inheritance in Java where we can specify whether the inheritance is protected, public or private.",
+        "option1":"1, 2 and 3",
+        "option2":"1 and 2",
+        "option3":"2 and 3 ",
+        "option4":"1 and 3",
+        "answer":"1, 2 and 3"
+    },
+    {
+        "question":" Who invented Java Programming?",
+        "option1":" Guido van Rossum",
+        "option2":"James Gosling ",
+        "option3":" Dennis Ritchie",
+        "option4":" Bjarne Stroustrup",
+        "answer":"James Gosling"
+    },
+    {
+        "question":"Which component is used to compile, debug and execute the java programs? ",
+        "option1":"JRE ",
+        "option2":"JIT",
+        "option3":" JDK",
+        "option4":"JVM ",
+        "answer":"JDK"
+    },
+    {
+        "question":"Which of the following is a type of polymorphism in Java Programming? ",
+        "option1":" Multiple polymorphism",
+        "option2":"Compile time polymorphism ",
+        "option3":"Multilevel polymorphism ",
+        "option4":"  Execution time polymorphism",
+        "answer":"Compile time polymorphism"
+    },
+    {
+        "question":" Which of the below is not a Java Profiler?",
+        "option1":" Eclipse Profiler",
+        "option2":"JProfiler",
+        "option3":" JVM ",
+        "option4":"JConsole ",
+        "answer":" JVM"
+    },
+    {
+        "question":"Which class provides system independent server side implementation? ",
+        "option1":" Server",
+        "option2":"Socket ",
+        "option3":" ServerReader",
+        "option4":"  ServerSocket",
+        "answer":" ServerSocket"
+    },
+    {
+        "question":"Which of the following is true about servlets? ",
+        "option1":" Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries",
+        "option2":"Servlets execute within the address space of web server ",
+        "option3":" Servlets can use the full functionality of the Java class libraries ",
+        "option4":"Servlets are platform-independent because they are written in java ",
+        "answer":"Servlets execute within the address space of web server, platform independent and uses the functionality of java class libraries"
+    },
+    {
+        "question":"What will be the error in the following Java code? - byte b = 50;b = b * 50; ",
+        "option1":"No error in this code ",
+        "option2":"b cannot contain value 100, limited by its range ",
+        "option3":"b cannot contain value 50 ",
+        "option4":"* operator has converted b * 50 into int, which can not be converted to byte without casting",
+        "answer":"* operator has converted b * 50 into int, which can not be converted to byte without casting"
+    }
+]

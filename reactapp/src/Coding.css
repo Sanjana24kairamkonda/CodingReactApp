@@ -1,0 +1,81 @@
+/* Container for the entire coding question section */
+.Coding {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+  }
+  
+  /* Container for the question and test cases */
+  .container1 {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  /* Styling for the question section */
+  .Questions {
+    margin-bottom: 20px;
+  }
+  
+  .Questions h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .Questions p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* Styling for each test case */
+  .test_case {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 4px solid #007bff;
+    background: #f1f1f1;
+    border-radius: 4px;
+  }
+  
+  .test_case h3 {
+    font-size: 20px;
+    color: #007bff;
+    margin-bottom: 5px;
+  }
+  
+  .test_case p {
+    font-size: 16px;
+    color: #555;
+    margin: 2px 0;
+  }
+  
+  /* Centered button */
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Link inside the button */
+  button a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  button a:hover {
+    text-decoration: underline;
+  }
+  

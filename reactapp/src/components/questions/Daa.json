@@ -1,0 +1,82 @@
+[
+  {
+  "question":"Which of the following is not O(n^2)? ",
+  "option1":"(15^10) * n + 12099 ",
+  "option2":"n^1.98 ",
+  "option3":"n^3 / (sqrt(n))",
+  "option4":"(2^20) * n ",
+  "answer":"n^3 / (sqrt(n)) "
+},
+{
+  "question":"Which of the following is not a backtracking algorithm? ",
+  "option1":"Knight tour problem ",
+  "option2":"N queen problem ",
+  "option3":"Tower of hanoi",
+  "option4":"M coloring problem ",
+  "answer":"Tower of hanoi "
+},
+{
+  "question":"T(n) = 2T(n/2) + n, T(0) = T(1) = 1 Which one of the following is false. ",
+  "option1":"T(n) = Omega(n^2) ",
+  "option2":"T(n) = \theta(nLogn) ",
+  "option3":"T(n) = O(nLogn)",
+  "option4":"T(n) = O(n^2)",
+  "answer":" T(n) = Omega(n^2)"
+},
+{
+  "question":"In a complete k-ary tree, every internal node has exactly k children. The number of leaves in such a tree with n internal nodes is:  ",
+  "option1":" nk",
+  "option2":"n( k – 1) ",
+  "option3":"(n – 1) k+ 1",
+  "option4":"n( k – 1) + 1 ",
+  "answer":" n( k – 1) + 1"
+},
+{
+  "question":"What is the time complexity of Floyd–Warshall algorithm to calculate all pair shortest path in a graph with n vertices? ",
+  "option1":"Theta(n^2logn) ",
+  "option2":"O(n^2logn) ",
+  "option3":"Theta(n^3)",
+  "option4":"Theta(n^4) ",
+  "answer":"Theta(n^3) "
+},
+{
+  "question":"Standard planning algorithms assume environment to be ____. ",
+  "option1":"Both deterministic and fully observable ",
+  "option2":"Neither deterministic nor fully observable ",
+  "option3":"Deterministic but not fully observable",
+  "option4":"Not deterministic but fully observable ",
+  "answer":"Both deterministic and fully observable "
+},
+{
+  "question":"The average number of key comparisons required for a successful search for sequential search on items is ",
+  "option1":"n/2 ",
+  "option2":"(n-1)/2 ",
+  "option3":" (n+1)/2",
+  "option4":"None of these ",
+  "answer":"(n+1)/2 "
+},
+{
+  "question":"The infix expression A + (B - C)* D is correctly represented in prefix notation as ",
+  "option1":"A + B − C ∗ D ",
+  "option2":"+ A ∗ − B C D ",
+  "option3":"A B C − D ∗ +",
+  "option4":"A + B C − D ∗ ",
+  "answer":"+ A ∗ − B C D "
+},
+{
+  "question":"Let SHAM3 be the problem of finding a Hamiltonian cycle in a graph G = (V,E) with V divisible by 3 and DHAM3 be the problem of determining if a Hamiltonian cycle exists in such graphs. Which one of the following is true? ",
+  "option1":"Both DHAM3 and SHAM3 are NP-hard ",
+  "option2":"SHAM3 is NP-hard, but DHAM3 is not ",
+  "option3":"DHAM3 is NP-hard, but SHAM3 is not",
+  "option4":"Neither DHAM3 nor SHAM3 is NP-hard ",
+  "answer":"Both DHAM3 and SHAM3 are NP-hard "
+},
+{
+  "question":"A problem in NP is NP-complete if   ",
+  "option1":"It can be reduced to the 3-SAT problem in polynomial time ",
+  "option2":"The 3-SAT problem can be reduced to it in polynomial time",
+  "option3":"It can be reduced to any other problem in NP in polynomial time",
+  "option4":"some problem in NP can be reduced to it in polynomial time ",
+  "answer":"The 3-SAT problem can be reduced to it in polynomial time "
+}
+]

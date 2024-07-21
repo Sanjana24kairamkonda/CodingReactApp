@@ -1,0 +1,82 @@
+[
+    {
+        "question":"Which one of the following is an application of Stack Data Structure? ",
+        "option1":"The stock span problem",
+        "option2":"Managing function calls",
+        "option3":"Arithmetic expression evaluation ",
+        "option4":"All of the above ",
+        "answer":"All of the above "
+    },
+    {
+        "question":"Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?",
+        "option1":"Insertion Sort",
+        "option2":"Quick Sort ",
+        "option3":"Heap Sort ",
+        "option4":"Merge Sort ",
+        "answer":"Merge Sort"
+    },
+
+    {
+        "question":"Which of the following is true about linked list implementation of stack? ",
+        "option1":"None of the above ",
+        "option2":"In push operation, if new nodes are inserted at the end, then in pop operation, nodes must be removed from the beginning.",
+        "option3":"Both of the above ",
+        "option4":"In push operation, if new nodes are inserted at the beginning of linked list, then in pop operation, nodes must be removed from end. ",
+        "answer":"None of the above  "
+    },
+
+    {
+        "question":"Suppose a circular queue of capacity (n – 1) elements is implemented with an array of n elements. Assume that the insertion and deletion operation are carried out using REAR and FRONT as array index variables, respectively. Initially, REAR = FRONT = 0. The conditions to detect queue full and queue empty are",
+        "option1":"Full: (REAR+1) mod n == FRONT, empty: REAR == FRONT",
+        "option2":"Full: (REAR+1) mod n == FRONT, empty: (FRONT+1) mod n == REAR ",
+        "option3":"Full: REAR == FRONT, empty: (REAR+1) mod n == FRONT",
+        "option4":"Full: (FRONT+1) mod n == REAR, empty: REAR == FRONT ",
+        "answer":"Full: (REAR+1) mod n == FRONT, empty: REAR == FRONT "
+    },
+
+    {
+        "question":"Suppose the numbers 7, 5, 1, 8, 3, 6, 0, 9, 4, 2 are inserted in that order into an initially empty binary search tree. The binary search tree uses the usual ordering on natural numbers. What is the in-order traversal sequence of the resultant tree? ",
+        "option1":"7 5 1 0 3 2 4 6 8 9 ",
+        "option2":"0 2 4 3 1 6 5 9 8 7",
+        "option3":"0 1 2 3 4 5 6 7 8 9 ",
+        "option4":"9 8 6 4 2 3 0 1 5 7 ",
+        "answer":"0 1 2 3 4 5 6 7 8 9 "
+    },
+
+    {
+        "question":"Let G be a weighted undirected graph and e be an edge with maximum weight in G. Suppose there is a minimum weight spanning tree in G containing the edge e. Which of the following statements is always TRUE?   ",
+        "option1":"There exists a cutset in G having all edges of maximum weight. ",
+        "option2":"There exists a cycle in G having all edges of maximum weight ",
+        "option3":"Edge e cannot be contained in a cycle ",
+        "option4":"All edges in G have the same weight ",
+        "answer":"There exists a cutset in G having all edges of maximum weight "
+    },
+
+    {
+        "question":"An advantage of chained hash table (external hashing) over the open addressing scheme is ",
+        "option1":"Worst case complexity of search operations is less ",
+        "option2":"Space used is less ",
+        "option3":"Deletion is easier ",
+        "option4":"None of the above ",
+        "answer":"Deletion is easier "
+    },
+
+    {
+        "question":"When searching for the key value 60 in a binary search tree, nodes containing the key values 10, 20, 40, 50, 70 80, 90 are traversed, not necessarily in the order given. How many different orders are possible in which these key values can occur on the search path from the root to the node containing the value 60? ",
+        "option1":"35",
+        "option2":"64",
+        "option3":" 123",
+        "option4":" 5040",
+        "answer":"35 "
+    },
+
+    {
+        "question":"Which of the following is TRUE? ",
+        "option1":"The cost of searching an AVL tree is θ (log n) but that of a binary search tree is O(n) ",
+        "option2":"The cost of searching an AVL tree is θ (log n) but that of a complete binary tree is θ (n log n) ",
+        "option3":"The cost of searching a binary search tree is O (log n ) but that of an AVL tree is θ(n) ",
+        "option4":"The cost of searching an AVL tree is θ (n log n) but that of a binary search tree is O(n) ",
+        "answer":"The cost of searching an AVL tree is θ (log n) but that of a binary search tree is O(n) "
+    }
+
+]

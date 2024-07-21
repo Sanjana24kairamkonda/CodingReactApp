@@ -1,0 +1,82 @@
+[
+    {
+        "question":"An index is clustered, if ",
+        "option1":" is on a set of fields that form a candidate key. ",
+        "option2":"it is on a set of fields that include the primary key. ",
+        "option3":"the data records of the file are organized in the same order as the data entries of the index.",
+        "option4":"the data records of the file are organized not in the same order as the data entries of the index. ",
+        "answer":"the data records of the file are organized in the same order as the data entries of the index. "
+    },
+    {
+        "question":"Which of the following statements are TRUE about an SQL query? P : An SQL query can contain a HAVING clause even if it does not have a GROUP BY clause Q : An SQL query can contain a HAVING clause only if it has a GROUP BY clause R : All attributes used in the GROUP BY clause must appear in the SELECT clause S : Not all attributes used in the GROUP BY clause need to appear in the SELECT clause ",
+        "option1":"P and R",
+        "option2":"P and S ",
+        "option3":"Q and S",
+        "option4":"Q and R ",
+        "answer":"P and S"
+    },
+    {
+        "question":"A clustering index is defined on the fields which are of type",
+        "option1":"non-key and ordering ",
+        "option2":"non-key and non-ordering",
+        "option3":"key and ordering",
+        "option4":"key and non-ordering ",
+        "answer":"non-key and ordering"
+    },
+    {
+        "question":"The statement that is executed automatically by the system as a side effect of the modification of the database is ",
+        "option1":"backup ",
+        "option2":"assertion ",
+        "option3":"recovery",
+        "option4":"trigger ",
+        "answer":"trigger "
+    },
+    {
+        "question":"Which of the following command is used to delete a table in SQL? ",
+        "option1":"delete ",
+        "option2":"truncate ",
+        "option3":"remove",
+        "option4":"drop ",
+        "answer":"drop "
+    },
+    {
+        "question":"In the index allocation scheme of blocks to a file, the maximum possible size of the file depends on :",
+        "option1":"the size of the blocks, and the size of the ad­dress of the blocks. ",
+        "option2":"the number of blocks used for the index, and the size of the blocks ",
+        "option3":"the size of the blocks, the number of blocks used for the index, and the size of the address of the blocks.",
+        "option4":"None of these",
+        "answer":"the number of blocks used for the index, and the size of the blocks"
+    },
+    {
+        "question":"Which of the following is correct? ",
+        "option1":"B-trees are for storing data on disk and B+ trees are for main memory ",
+        "option2":"Range queries are faster on B+ trees.",
+        "option3":"B-trees are for primary indexes and B+ trees are for secondary indexes.",
+        "option4":"The height of a B+ tree is independent of the number of records ",
+        "answer":"Range queries are faster on B+ trees "
+    },
+    {
+        "question":"Let R = ABCDE is a relational scheme with functional dependency set F = {A → B, B → C, AC → D}. The attribute closures of A and E are ",
+        "option1":"ABCD, E ",
+        "option2":"ABCD, φ ",
+        "option3":"ABC, E",
+        "option4":"Φ, φ ",
+        "answer":"ABCD, E "
+    },
+    {
+        "question":"In E-R model, Y is the dominant entity and X is subordinate entity ",
+        "option1":"If X is deleted, then Y is also deleted ",
+        "option2":"If Y is deleted, then X is also deleted ",
+        "option3":"If Y is deleted, then X is not deleted",
+        "option4":"None of the above ",
+        "answer":"If Y is deleted, then X is also deleted "
+    },
+    {
+        "question":"Let R1 (a, b, c) and R2 (x, y, z) be two relations in which a is the foreign key of R1 that refers to the primary key of R2 . Consider following four options. (a)Insert into R 1 (b)Insert into R 2 (c)Delete from R 1 (d)Delete from R 2 Which of the following is correct about the referential integrity constraint with respect to above? ",
+        "option1":"Operations (a) and (b) will cause violation. ",
+        "option2":" Operations (b) and (c) will cause violation",
+        "option3":"Operations (c) and (d) will cause violation",
+        "option4":"Operations (d) and (a) will cause violation",
+        "answer":"Operations (d) and (a) will cause violation "
+    }
+]

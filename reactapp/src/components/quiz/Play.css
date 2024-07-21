@@ -1,0 +1,91 @@
+.questions{
+    background-color: rgb(209, 209, 209);
+    border-left: 5px solid rgb(40, 40, 77);
+    
+    margin: lg auto 0 auto;
+    padding: 10px 90px;
+}
+.lifeline-container{
+    display:flex;
+    justify-content: space-between;
+}
+.lifeline{
+    position: relative;
+    top: -3px;
+}
+h5{
+    font-size: medium;
+    padding-left: 10px;
+    
+}
+.disable{
+    background-color: rgb(180, 162, 197);
+    box-shadow: none;
+    opacity: 0.9;
+    pointer-events: none;
+}
+.right{
+    padding-left: 900px;
+}
+.options-container{
+    display: inline-block;
+    width: 50%;
+}
+.options{
+    background-color: rgb(68, 138, 165);
+    border-radius: 7px;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    text-align: center;
+    width: 60%;
+}
+.options:hover{
+    background-color: rgb(43, 43, 94);
+}
+.Button-container{
+    border: none;
+    color: rgb(87, 83, 83);
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.toast-invalid{
+    background-color:rgb(214, 107, 107);
+    border-radius: 5px;
+    color: white;
+}
+.toast-valid{
+    background-color:rgb(40, 116, 72);
+    border-radius: 5px;
+    color: white;
+}
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    display: block;
+}
+.summary{
+    align-content: center;
+    display:none;
+    background-color: rgb(30, 33, 56);
+}
+.remark{
+    color: rgb(163, 128, 83);
+    font-size: 40px;
+}
+.score{
+    color: rgb(80, 175, 151);
+    font-size: 30px;
+    align-content: center;
+}
+span{
+    color: rgb(27, 20, 27);
+}
+.statleft{
+    color:rgb(119, 144, 197) ;
+    font-size: 20px;
+}
